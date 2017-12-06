@@ -1,4 +1,4 @@
 # hello-world
 Just another reposlitory
 
-Hi,my name if xiaoli
+Hi,my name is xiaoli
